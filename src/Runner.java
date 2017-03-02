@@ -3,7 +3,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-
 public class Runner {
 
 	void testData(){

@@ -11,7 +11,6 @@ import acm.gui.DoubleField;
 import acm.gui.TableLayout;
 import acm.program.Program;
 
-
 public class ATMGUI extends Program {
 	
 

@@ -14,6 +14,7 @@ public class Account {
 		balance = 0.0;
 		transactions = new ArrayList<Transaction>();
 	}
+	
 
 	@Override
 	public String toString(){
